@@ -1,0 +1,3 @@
+/home/piotr/c-communicator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/piotr/c-communicator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/piotr/c-communicator/cmake-build-debug/CMakeFiles/c_communicator.dir

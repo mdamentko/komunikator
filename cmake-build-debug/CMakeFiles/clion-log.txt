@@ -1,0 +1,4 @@
+/home/piotr/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.3684.76/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc-7 -DCMAKE_CXX_COMPILER=/usr/bin/g++-7 -G "CodeBlocks - Unix Makefiles" /home/piotr/c-communicator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/piotr/c-communicator/cmake-build-debug
